@@ -1,4 +1,4 @@
-Food-Delivery
+Food Delivery
 
 It is a Full Stack MERN project.
 I used Vite for this project.
