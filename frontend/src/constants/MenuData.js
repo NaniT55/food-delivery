@@ -1,0 +1,34 @@
+export const menu_list =[
+    {
+        menu_name:'Salads',
+        menu_img:'../frontend_assets/menu_1.png'
+    },
+    {
+        menu_name:'Rolls',
+        menu_img:'../frontend_assets/menu_2.png'
+    },
+    {
+        menu_name:'Desetrs',
+        menu_img:'../frontend_assets/menu_3.png'
+    },
+    {
+        menu_name:'Sandwich',
+        menu_img:'../frontend_assets/menu_4.png'
+    },
+    {
+        menu_name:'Cakes',
+        menu_img:'../frontend_assets/menu_5.png'
+    },
+    {
+        menu_name:'Veg',
+        menu_img:'../frontend_assets/menu_6.png'
+    },
+    {
+        menu_name:'Pasta',
+        menu_img:'../frontend_assets/menu_7.png'
+    },
+    {
+        menu_name:'Noodles',
+        menu_img:'../frontend_assets/menu_8.png'
+    },
+]
